@@ -1,0 +1,13 @@
+{
+  "name": "fullcycle-nodejs",
+  "version": "1.0.0",
+  "description": "Estudos aprofundado sobre o Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "Mayron Souza",
+    "email": "mayrondrummer@gmail.com",
+    "url": "https://github/MayronSouza"
+  },
+  "license": "MIT"
+}
